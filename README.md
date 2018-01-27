@@ -124,3 +124,4 @@ awspec is inspired by Serverspec.
 - Original idea (code / architecture) -> [Serverspec](https://github.com/serverspec/serverspec)
 - `AWS + Serverspec` original concept -> https://github.com/marcy-terui/awspec
 - [Serverspec book](http://www.oreilly.co.jp/books/9784873117096/)
+
