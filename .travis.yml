@@ -10,4 +10,5 @@ language: bash
 #   - gem pristine bundler
   
 script:
+  - pwd
   - bash travis.sh
